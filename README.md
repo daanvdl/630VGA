@@ -12,9 +12,9 @@ This board supplies the standard VGA monitor port to your Macintosh. The board c
 
 This board can be used by replacing the Monitor Out Board (Apple 820-0541-A & Apple 820-0541-B). The board will change the DB15 port to a VGA port and will allow the machine to choose from VGA resolutions instead of senseline-sensing on the DB15 backend.
 
-<img src="/Images/board.jpg"/>
+<img src="/Images/Board.jpg"/>
 
-<img src="/Images/backside.jpg"/>
+<img src="/Images/Backside.jpg"/>
 
 ## Board
 
